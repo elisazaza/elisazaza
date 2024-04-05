@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+### Hi there im Elisa 😄 im learning
+-->![OIP](https://github.com/elisazaza/elisazaza/assets/166153077/b2dc9e82-e94c-43cf-b427-12e087d160c8)<!--
 **elisazaza/elisazaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
